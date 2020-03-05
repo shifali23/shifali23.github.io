@@ -2,9 +2,9 @@
 
 ### Introduction
 
-Use this template if you need a quick developer / data science portfolio! Based on a Minimal Jekyll theme for GitHub Pages.
+hello
 
-<img src="images/yolo.jpg?raw=true"/>
+<img src="yolo.jpg?raw=true">
 
 ### Installation
 
